@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/MY_PORTFOLIO/static/css/main.2133db14.css",
+    "main.js": "/MY_PORTFOLIO/static/js/main.ca5e385b.js",
+    "static/media/profile.png": "/MY_PORTFOLIO/static/media/profile.242f272d3ffd53f0b0ee.png",
+    "static/media/bgIMG.png": "/MY_PORTFOLIO/static/media/bgIMG.c39101e520e2997fc6d4.png",
+    "static/media/bgWhite.png": "/MY_PORTFOLIO/static/media/bgWhite.79658cadae50b3b16ee5.png",
+    "static/media/logo.png": "/MY_PORTFOLIO/static/media/logo.33247131ba1d27eb98f4.png",
+    "static/media/sass.png": "/MY_PORTFOLIO/static/media/sass.36e863bfbcb25c109d00.png",
+    "static/media/mobile.png": "/MY_PORTFOLIO/static/media/mobile.145d9ce0157a56f8fcd8.png",
+    "static/media/email.png": "/MY_PORTFOLIO/static/media/email.37b9e890eea501421fbf.png",
+    "index.html": "/MY_PORTFOLIO/index.html",
+    "static/media/circle.svg": "/MY_PORTFOLIO/static/media/circle.134eeeb1e58895b892195fe8ed63bc9f.svg",
+    "main.2133db14.css.map": "/MY_PORTFOLIO/static/css/main.2133db14.css.map",
+    "main.ca5e385b.js.map": "/MY_PORTFOLIO/static/js/main.ca5e385b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2133db14.css",
+    "static/js/main.ca5e385b.js"
+  ]
+}
