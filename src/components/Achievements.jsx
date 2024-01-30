@@ -28,7 +28,7 @@ const achieves = [
 
 const AchieveCard = ({ title, desc, link, link2 }) => {
   return (
-    <div className="px-4 py-2 self-center bg-white drop-shadow-md m-4 rounded-lg w-fit flex flex-col gap-2 max-w-5xl">
+    <div className="px-4 py-2 border-2 border-gray-100 bg-white drop-shadow-lg m-4 rounded-lg flex flex-col gap-2">
       <div className="font-semibold text-blue-900">🏆 {title}</div>
       {desc && <div className="text-sm text-gray-600">{desc}</div>}
       <div className="flex gap-4">
