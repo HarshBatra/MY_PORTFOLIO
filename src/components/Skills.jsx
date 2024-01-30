@@ -2,6 +2,14 @@ import React from "react";
 
 const skills = [
   {
+    name: "C",
+    img: require("../assets/icons/c.png"),
+  },
+  {
+    name: "C++",
+    img: require("../assets/icons/cpp.png"),
+  },
+  {
     name: "HTML",
     img: require("../assets/icons/html.png"),
   },
