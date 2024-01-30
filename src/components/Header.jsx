@@ -2,14 +2,14 @@ import React from "react";
 
 const Header = () => {
   return (
-    <div className="relative mb-40">
+    <div className="relative md:mb-40">
       <img
         alt="mandala"
         className="w-full opacity-20 absolute -z-10"
         src={require("../assets/images/mandala.png")}
       />
-      <div className="flex md:flex-row flex-col-reverse justify-center md:justify-around py-20">
-        <div className="py-10 self-center">
+      <div className="flex md:flex-row flex-col-reverse justify-center md:justify-around md:py-20 py-10">
+        <div className="md:py-10 self-center">
           <div className="text-blue-950 text-2xl md:text-5xl font-bold text-center md:text-left">
             Hello!
           </div>
