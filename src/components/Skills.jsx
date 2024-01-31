@@ -65,10 +65,6 @@ const skills = [
     name: "Figma",
     img: require("../assets/icons/figma.png"),
   },
-  {
-    name: "Material UI",
-    img: require("../assets/icons/mui.png"),
-  },
 ];
 
 const SkillCard = ({ name, img }) => {
