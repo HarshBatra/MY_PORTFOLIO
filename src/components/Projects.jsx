@@ -16,6 +16,13 @@ const projects = [
     githubLink: "https://github.com/HarshBatra/youtube_clone",
     liveLink: "https://youtube-clone-harsh-batra.vercel.app/",
   },
+  {
+    name: "MovieFlix-GPT",
+    desc: "MovieFlixGPT is a Netflix clone project that mimics the UI and functionality of Netflix. It is made using React.js, Tailwind CSS & Redux Toolkit, effectively managing the UI and data layers to provide users with a seamless movie recommendation experience. The project features a fully-responsive UI, authentication and authorization system powered by Firebase, movie recommendations fetched via the TMDB API, and a unique GPT movie suggestion feature powered by the OpenAI API.",
+    img: require("../assets/images/movieflixgpt.png"),
+    githubLink: "https://github.com/HarshBatra/MovieFlixGPT",
+    liveLink: "https://movie-flix-gpt.vercel.app/",
+  },
 ];
 
 const ProjectCard = ({ name, desc, img, githubLink, liveLink }) => {
