@@ -10,6 +10,13 @@ const projects = [
     liveLink: "https://bloggify.vercel.app/",
   },
   {
+    name: "PayTM Clone",
+    desc: "Developed PayTM Clone project aiming to replicate core functionalities of the PayTM platform incorporating features including Account Balance Viewing, User Search, and Money Transfer functionalities. Implemented User Authentication & Authorization using JWT & bcrypt for secure access. Utilized MERN stack (MongoDB, Express.js, React.js, and Node.js), ensuring robust and scalable performance and employed MongoDB Transactions to enforce ACID properties, guaranteeing data consistency and reliability throughout transactions.",
+    img: require("../assets/images/paytmclone.png"),
+    githubLink: "https://github.com/HarshBatra/paytm-clone",
+    liveLink: "https://paytm-clone-mern.vercel.app/",
+  },
+  {
     name: "Youtube Clone",
     desc: "YouTube Clone, a frontend project that replicates the functionalities of YouTube's main features including video browsing, search suggestions, video watching, comment section, and live chat. This project is built with a focus on clean UI design and efficient data management, utilizing YouTube's Live API data.",
     img: require("../assets/images/ytclone.png"),
